@@ -1,8 +1,8 @@
 import React from 'react';
 import CartItem from "./CartItems";
-import Phone from "../assests/iphone12.png";
-import Watch from "../assests/watch.png";
-import Laptop from "../assests/lappy.png";
+// import Phone from "../assests/iphone12.png";
+// import Watch from "../assests/watch.png";
+// import Laptop from "../assests/lappy.png";
 
 
 const Cart = (props) => {
